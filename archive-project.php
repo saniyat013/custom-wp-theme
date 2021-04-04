@@ -1,8 +1,6 @@
 <?php get_header(); ?>
 
-        <a href="<?php echo site_url('/projects'); ?>">
             <h2 class="page-heading">All Projects</h2>
-        </a>
 
         <section>
 
